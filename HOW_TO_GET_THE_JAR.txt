@@ -1,0 +1,5 @@
+No installs needed (free GitHub account only):
+1. github.com -> New repository -> upload ALL files of this folder (drag & drop, keep the .github folder).
+2. Open the "Actions" tab -> wait for "Build mod jar" to turn green (~3-5 min).
+3. Click that run -> download "ytscare-jar" (zip) -> unzip -> ytscare-1.20.1-1.0.0.jar
+4. Modrinth App -> new instance (Forge, 1.20.1) -> Add content -> Add from file -> pick the jar -> Play.
